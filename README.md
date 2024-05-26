@@ -1,4 +1,4 @@
-# Mist4610-Group-Project-1-Group4
+# Mist4610-Group-Project1-Group4
 
 ## Team Name: 
 20244 Group 4

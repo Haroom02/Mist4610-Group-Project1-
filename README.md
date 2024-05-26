@@ -1,16 +1,15 @@
-# Mist4610-Group-Project1-
-# Group 4 MIST 4610 Group project 1
+# Mist4610-Group-Project-1-Group4
 
 ## Team Name: 
 20244 Group 4
 
 ## Team Members:
 
-1. Ryan Overbeck https://github.com/rjo82443?tab=repositories
+1. Ryan Overbeck https://github.com/rjo82443
 2. Minwoo Park https://github.com/Haroom02
 3. Brooke Carlisle https://github.com/brookecarlisle
-4. Mathias Flanagan
-5. Connor Walker
+4. Mathias Flanagan https://github.com/mf727
+5. Connor Walker https://github.com/connorwalker33
 
 ## Problem Description:
 Pretend you are the owner/operator of a Cricket club needing to build a relational database. You hired some students from the MIST 4610 class at the University of Georgia to create the database for you. They need to know more about your organization to identify which entities, attributes, and relationships are important for you. Start by describing your business as a real client.
@@ -288,4 +287,8 @@ Query 10 calculates the average batting and bowling averages and counts players 
 
 
 ## Database information:
+
+Name of database: al_Group_21482_G4;
+
+Additional information: Each query listed above is marked in the database using stored procedures which can be called using the following format: CALL TP_Q1();
 
